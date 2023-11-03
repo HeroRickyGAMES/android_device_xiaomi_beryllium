@@ -1,0 +1,10 @@
+[
+  {
+    "repository": "crdroidandroid/proprietary_vendor_xiaomi-beryllium",
+    "target_path": "vendor/xiaomi/beryllium"
+  },
+  {
+    "repository": "crdroidandroid/android_kernel_xiaomi_sdm845",
+    "target_path": "kernel/xiaomi/sdm845"
+  }
+]
