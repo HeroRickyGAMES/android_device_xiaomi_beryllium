@@ -38,6 +38,9 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.bluetooth_audio@2.0.vendor \
     vendor.qti.hardware.btconfigstore@1.0.vendor
 
+# Blur
+TARGET_ENABLE_BLUR := true
+
 # Boot animation
 TARGET_SCREEN_HEIGHT := 2246
 TARGET_SCREEN_WIDTH := 1080
