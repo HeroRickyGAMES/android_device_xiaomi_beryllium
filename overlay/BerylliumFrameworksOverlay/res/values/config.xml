@@ -977,9 +977,6 @@
         <item>3</item> <!-- COLOR_MODE_AUTOMATIC -->
     </integer-array>
 
-    <!-- If true, the display will be shifted around in ambient mode. -->
-    <bool name="config_enableBurnInProtection">true</bool>
-
     <!-- Whether the always on display mode is available. -->
     <bool name="config_dozeAlwaysOnDisplayAvailable">true</bool>
 
