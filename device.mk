@@ -263,7 +263,6 @@ DEVICE_PACKAGE_OVERLAYS += \
 PRODUCT_PACKAGES += \
     BerylliumApertureOverlay \
     BerylliumCarrierConfigOverlay \
-    BerylliumFaceUnlockServiceOverlay \
     BerylliumFrameworksOverlay \
     BerylliumNoCutoutOverlay \
     BerylliumSettingsOverlay \
