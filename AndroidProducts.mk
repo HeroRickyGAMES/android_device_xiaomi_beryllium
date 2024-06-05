@@ -17,6 +17,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lineage_beryllium.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_beryllium-user \
-    lineage_beryllium-userdebug \
-    lineage_beryllium-eng
+    miku_beryllium-up1a-user \
+    miku_beryllium-up1a-userdebug \
+    miku_beryllium-up1a-eng
