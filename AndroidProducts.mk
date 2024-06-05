@@ -14,7 +14,7 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_beryllium.mk
+    $(LOCAL_DIR)/miku_beryllium.mk
 
 COMMON_LUNCH_CHOICES := \
     miku_beryllium-up1a-user \
